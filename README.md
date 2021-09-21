@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### Demo
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmailFarag&repo=Notebook)](https://github.com/esmailFarag/Notebook)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmailFarag&repo=Login-and-Registration)](https://github.com/esmailFarag/Login-and-Registration)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmailFarag&repo=Custom-Drawer-flutter)](https://github.com/esmailFarag/Custom-Drawer-flutter/tree/main/drawer)  
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=esmailFarag&repo=CSS_Animation_Effects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/esmailFarag/CSS_Animation_Effects)
