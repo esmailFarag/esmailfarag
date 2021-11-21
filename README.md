@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **ismailfarag161@gmail.com**
-<br />
+- [My CV](https://github.com/esmailFarag/esmailfarag/files/7577035/CV.ismail_farag.pdf) download from here
 
-
-### Demo
+<h2 align="center">Demo </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmailFarag&repo=Notebook)](https://github.com/esmailFarag/Notebook)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=esmailFarag&repo=Login-and-Registration)](https://github.com/esmailFarag/Login-and-Registration)  
